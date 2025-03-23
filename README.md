@@ -30,7 +30,7 @@ Ensure you have the following installed:
 2. **Create a Virtual Environment**
    ```sh
    python -m venv venv
-   source venv/bin/activate  # On Windows use: venv\Scripts\activate
+   venv\Scripts\activate
    ```
 3. **Install Dependencies**
    ```sh

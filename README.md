@@ -78,7 +78,7 @@ The `sql_handler.py` script ensures the **message_store** table is created and o
 ---
 
 ## Hosted Application
-Access the chatbot at: **[Data Science Chatbot](https://github.com/Premkumarbajaru/AI-Conversational-Data-Science-Tutor.git)**
+Access the chatbot at: **[Data Science Chatbot](https://ai-conversational-ds-tutor.streamlit.app/)**
 
 ---
 
